@@ -4,5 +4,3 @@ DHIS2 Web App
 
 Managing Organisation Units
 
-
-Fuck off
